@@ -1,0 +1,1 @@
+[TASK-17617] The driver should be able to select different target speeds on the HMI.
